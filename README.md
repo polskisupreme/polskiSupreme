@@ -12,9 +12,9 @@ Operating Systems: Linux 🐧, PowerShell, Windows, Mac
 Other Tools: Enterprise Architect 🏗️, Visual studio, Affinity Photo 
 
 ## 💼 Current Projects & Experience:
-Airport APP: This project is a Flight Reservation Management System developed using Java and Spring Framework. It demonstrates object-oriented programming principles like inheritance, associations between classes, and encapsulation. The system handles different components of a flight reservation application, including flight lists, reservations, passenger details, seat assignments, and ticket classes.
-Perceptron in Python: A simple neural network model for binary classification. Check it out here.
-Tender: A project management case study where we developed full project documentation including risk analysis, work breakdown structures, resource management plans, and UML diagrams.
+ *Airport APP:* This project is a Flight Reservation Management System developed using Java and Spring Framework. It demonstrates object-oriented programming principles like inheritance, associations between classes, and encapsulation.
+*Perceptron in Python:* A simple neural network model for binary classification. Check it out here.
+*Tender:* A project management case study where we developed full project documentation including risk analysis, work breakdown structures, resource management plans, and UML diagrams.
 
 ## 📚 Learning & Growth:
 Currently pursuing my Bachelor’s degree with a specialization in Cybersecurity at PJATK, Warsaw.
